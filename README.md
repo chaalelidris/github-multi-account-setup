@@ -74,7 +74,12 @@ git clone git@github-companya:CompanyA/repo-name.git
 # For Company B
 git clone git@github-companyb:CompanyB/repo-name.git
 ```
-
+For existing repositories, modify the remote URL:
+```bash
+git remote set-url origin git@github-personal:username/repo.git
+# or 
+git remote set-url origin git@github-work:username/repo.git
+```
 ---
 
 ### 6. Set Git User Identity per Repository
