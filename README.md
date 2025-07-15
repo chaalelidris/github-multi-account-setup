@@ -96,6 +96,11 @@ git config user.email "you@companyb.com"
 
 ---
 
+### 7. Troubleshooting
+SSH Connection Testing: Confirm SSH connections with ```bash ssh -T git@github-personal or git@github-work ```
+
+---
+
 ## ✅ Result
 
 * Seamless switching between accounts
